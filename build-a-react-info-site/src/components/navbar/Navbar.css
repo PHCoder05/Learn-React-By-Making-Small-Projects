@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 50px 5px;
+    padding-top: 50px;
+}
+.nav--icon{
+    padding:5px;
+    margin: 5px;
+    width: 40px;
+}
+.nav--logo_text{
+ 
+    color: #00d8ff;
+    margin-right: auto;
+
+    
+}

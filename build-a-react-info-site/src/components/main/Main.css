@@ -1,0 +1,35 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+
+    margin: 0;
+    background-image: url(../../assets/react.svg);
+    background-repeat: no-repeat;
+    background-position: 10px 20 px;
+
+}
+
+.first-heading{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: 900;
+}
+.list-container {
+    margin: 35px;
+    background-image: url(../../assets/react.svg);
+    background-size: 200% 100%; /* Double the width of the container */
+    background-repeat: no-repeat;
+    background-position: left center; /* Position it to the right */
+  }
+  
+  
+ul>li{
+
+    padding: 10px;
+}
+li::marker {
+    color: #00d8ff;
+    font-size: 1.5em;
+}
