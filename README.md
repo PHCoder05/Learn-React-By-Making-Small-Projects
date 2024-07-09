@@ -10,7 +10,7 @@ This repository includes a series of small projects that cover various React con
 
 Explore the projects provided in this repository to practice your React skills:
 
-- **Project 1**: [Brief description of what the project entails and its learning objectives.]
+- **Project 1**: [build-a-react-info-site.]
 - **Project 2**: [Brief description of what the project entails and its learning objectives.]
 - **Project 3**: [Brief description of what the project entails and its learning objectives.]
 
@@ -61,7 +61,7 @@ Contributions are welcome! If you have suggestions for improvements or new proje
 
 Keep learning and developing with more resources and updates:
 
-- [GitHub Profile](https://github.com/your-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [GitHub Profile](https://github.com/phcoder05)
+- [LinkedIn](https://www.linkedin.com/in/pankaj-hadole-722476232/)
 
 Happy coding! 😊
