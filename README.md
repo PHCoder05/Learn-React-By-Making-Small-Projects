@@ -11,8 +11,8 @@ This repository includes a series of small projects that cover various React con
 Explore the projects provided in this repository to practice your React skills:
 
 - **Project 1**: build-a-react-info-site.
-- **Project 2**: upcoming soon..
-- **Project 3**: Upcoming soon
+- **Project 2**: build-an-airline-reservation-clone.
+- **Project 3**: Upcoming soon..
 
 
 ## 🚀 Getting Started
